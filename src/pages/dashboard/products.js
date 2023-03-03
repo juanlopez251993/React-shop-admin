@@ -1,5 +1,5 @@
 
-import Modal from '../../common/modal.js'
+import Modal from '../../common/Modal.js'
 import { useState, useEffect } from 'react';
 import { Menu, Transition } from '@headlessui/react';
 import { CheckIcon, XMarkIcon } from '@heroicons/react/24/solid';
